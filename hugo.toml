@@ -1,0 +1,9 @@
+baseURL = "https://ignatiusmaldive-a11y.github.io/sant-pere-slowly/"
+languageCode = "en"
+title = "Sant Pere, Slowly"
+enableRobotsTXT = true
+[params]
+  description = "A neighborhood guide to Sant Pere, Santa Caterina and the nearby old city of Barcelona."
+[markup.goldmark.renderer]
+  unsafe = true
+disableKinds = ["taxonomy", "term"]
