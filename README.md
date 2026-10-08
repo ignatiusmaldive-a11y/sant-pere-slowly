@@ -20,7 +20,7 @@ The interactive map uses Leaflet and OpenStreetMap tiles. Place data lives in `d
 
 ## Photography
 
-Location photographs are stored in `static/images/`. Each image caption on the site links to its Wikimedia Commons source and license; the photos are shared under the linked Creative Commons terms.
+Location photographs are stored in `static/images/`. Each image caption on the site links to its Wikimedia Commons source and license; the photos are resized for web use and shared under the linked Creative Commons terms.
 
 ## Place pages
 
