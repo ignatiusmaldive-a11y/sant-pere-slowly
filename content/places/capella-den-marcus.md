@@ -10,7 +10,7 @@ photoCredit: "Pere López"
 photoSource: "https://commons.wikimedia.org/wiki/File:Capella_Marcús_Barcelona.jpg"
 photoLicense: "CC BY-SA 3.0"
 photoLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
-gallery: [{"image":"/images/marcus-chapel.jpg","alt":"Romanesque stone exterior of Capella d’en Marcús","caption":"Capella d’en Marcús · exterior","credit":"Pere López","source":"https://commons.wikimedia.org/wiki/File:Capella_Marc%C3%BAs_Barcelona.jpg","license":"CC BY-SA 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0/"}]
+gallery: [{"image":"/images/marcus-chapel.jpg","alt":"Romanesque stone exterior of Capella d’en Marcús","caption":"Capella d’en Marcús · exterior","credit":"Pere López","source":"https://commons.wikimedia.org/wiki/File:Capella_Marc%C3%BAs_Barcelona.jpg","license":"CC BY-SA 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0/"},{"image":"/images/marcus-chapel-flickr.jpg","alt":"Bell gable of Capella d’en Marcús at night","caption":"Capella d’en Marcús · bell gable","credit":"_nur","source":"https://www.flickr.com/photos/58167807@N00/16123695950/","license":"CC BY-SA 2.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/2.0/"}]
 ---
 
 Capella d’en Marcús is a small Romanesque chapel dedicated to the Mare de Déu de la Guia. Its compact scale is part of the pleasure: it appears almost unexpectedly along the route through the old streets. The chapel has served travelers and neighbors over many centuries.
