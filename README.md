@@ -12,7 +12,7 @@ hugo server
 
 ## Weekly digest
 
-The dated digest lives in `content/news/`. Replace its front matter items with current, source-linked neighborhood reporting each week and update the issue date in `layouts/index.html`.
+The newest dated digest lives in `content/news/`; the homepage shows only the latest issue and older files remain available as an archive. The ready-to-schedule Codex prompt and cadence are in `codex-weekly-news-task.md`.
 
 ## Map
 
