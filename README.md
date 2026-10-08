@@ -16,11 +16,11 @@ The newest dated digest lives in `content/news/`; the homepage shows only the la
 
 ## Map
 
-The interactive map uses Leaflet and OpenStreetMap tiles. Place data lives in `data/places.json`.
+The interactive neighborhood map and the map embedded on each place page use Leaflet and OpenStreetMap tiles. Place data lives in `data/places.json`.
 
 ## Photography
 
-Location photographs are stored in `static/images/`. Each image caption on the site links to its Wikimedia Commons source and license; the photos are resized for web use and shared under the linked Creative Commons terms.
+Location photographs are stored in `static/images/`. Each image caption links to its Wikimedia Commons source and license; Flickr originals are linked where applicable. Photos are resized for web use and shared under the linked Creative Commons terms.
 
 ## Place pages
 
