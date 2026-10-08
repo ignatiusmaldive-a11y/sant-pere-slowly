@@ -6,7 +6,8 @@
     "lat": 41.38649,
     "lon": 2.17873,
     "description": "A working market under the vivid, undulating Miralles–Tagliabue roof.",
-    "tag": "Market"
+    "tag": "Market",
+    "slug": "santa-caterina-market"
   },
   {
     "id": "joan",
@@ -15,7 +16,8 @@
     "lat": 41.3863,
     "lon": 2.17889,
     "description": "Market-bar lunch at stalls 108–110 inside Santa Caterina.",
-    "tag": "Eat"
+    "tag": "Eat",
+    "slug": "bar-joan"
   },
   {
     "id": "antic",
@@ -24,7 +26,8 @@
     "lat": 41.38831,
     "lon": 2.17697,
     "description": "Experimental performance and a rare garden in a 17th-century building.",
-    "tag": "Culture"
+    "tag": "Culture",
+    "slug": "antic-teatre"
   },
   {
     "id": "rai",
@@ -33,7 +36,8 @@
     "lat": 41.38765,
     "lon": 2.18036,
     "description": "Independent shows, workshops, and community-rooted programming. Check current access.",
-    "tag": "Culture"
+    "tag": "Culture",
+    "slug": "rai-intercultural"
   },
   {
     "id": "bonnemaison",
@@ -42,7 +46,8 @@
     "lat": 41.38742,
     "lon": 2.17487,
     "description": "Library in the former Institute of Culture and Popular Library for Women, founded 1909.",
-    "tag": "History"
+    "tag": "History",
+    "slug": "biblioteca-bonnemaison"
   },
   {
     "id": "santlluc",
@@ -51,7 +56,8 @@
     "lat": 41.38862,
     "lon": 2.17725,
     "description": "Brunch inside the artists’ association founded in 1893.",
-    "tag": "Brunch"
+    "tag": "Brunch",
+    "slug": "sant-lluc-brunch-and-drawing"
   },
   {
     "id": "santpere",
@@ -60,7 +66,8 @@
     "lat": 41.38974,
     "lon": 2.17927,
     "description": "A quieter square gathered around the church of Sant Pere de les Puel·les.",
-    "tag": "Pause"
+    "tag": "Pause",
+    "slug": "placa-de-sant-pere"
   },
   {
     "id": "basses",
@@ -69,7 +76,8 @@
     "lat": 41.39043,
     "lon": 2.1791,
     "description": "A small square with a water story: the Rec Comtal and its mills shaped this quarter.",
-    "tag": "Pause"
+    "tag": "Pause",
+    "slug": "basses-de-sant-pere"
   },
   {
     "id": "benet",
@@ -78,7 +86,8 @@
     "lat": 41.39003,
     "lon": 2.17976,
     "description": "A public-space reference near Passatge de Sant Benet, not a commercial venue.",
-    "tag": "Pause"
+    "tag": "Pause",
+    "slug": "solar-benet-corner"
   },
   {
     "id": "marcus",
@@ -87,7 +96,8 @@
     "lat": 41.38701,
     "lon": 2.18082,
     "description": "A small Romanesque chapel and intimate square on the Carders route.",
-    "tag": "History"
+    "tag": "History",
+    "slug": "capella-den-marcus"
   },
   {
     "id": "palau",
@@ -96,7 +106,8 @@
     "lat": 41.38748,
     "lon": 2.1752,
     "description": "Domènech i Montaner’s modernista concert hall. Approach along Sant Pere Més Alt.",
-    "tag": "Architecture"
+    "tag": "Architecture",
+    "slug": "palau-de-la-musica-catalana"
   },
   {
     "id": "joncake",
@@ -105,6 +116,7 @@
     "lat": 41.38833,
     "lon": 2.17455,
     "description": "Cheesecake specialist whose popularity became a Born food phenomenon.",
-    "tag": "Sweet stop"
+    "tag": "Sweet stop",
+    "slug": "jon-cake-and-the-queue"
   }
 ]
